@@ -1,2 +1,2 @@
 # Big-Data-Management
-Bid Data Management Project using SQL and PySpark
+Big Data Management Project using SQL and PySpark
